@@ -1,3 +1,7 @@
+/*
+Количество полных метров
+*/
+
 public class Solution0202 {
 
 	public static void main(String[] args) {
