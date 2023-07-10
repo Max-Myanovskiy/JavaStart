@@ -16,7 +16,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="E:\Test Engeneer\New\Documents\kak-nauchitsja-programmirovat-s-nulja.jpg" width="500" height="250" />
+<img align="right" alt="GIF" src="E:\Test Engeneer\GitHub\git.jpg" width="500" height="333" />
   
 **Languages and Tools:**  
 
