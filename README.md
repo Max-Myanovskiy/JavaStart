@@ -16,7 +16,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="E:\Test Engeneer\GitHub\git.jpg" width="500" height="333" />
+<img align="right" alt="GIF" src="https://github.com/Max-Myanovskiy/JavaStart/blob/main/git2.png" width="508" height="290" />
   
 **Languages and Tools:**  
 
